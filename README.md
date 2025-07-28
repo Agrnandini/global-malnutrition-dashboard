@@ -12,7 +12,7 @@ Tools Used :
 
 
 Dashboard Snapshot :
-![Dashboard](https://github.com/your-username/your-repo-name/raw/main/dashboard_snapshot.png)
+https://github.com/Agrnandini/global-malnutrition-dashboard/blob/5d9d89976d7c08f83b6893fe28543313f8260c2a/Screenshot(166).png
 
 
 Files Included :
